@@ -57,7 +57,7 @@ Provide 30GB (or more, check recommended specs) of storage space and split it in
 
 ![storage](https://cdn.discordapp.com/attachments/1001143746664091698/1004042045788270772/unknown.png)
 
-Once created, head over to "Customize Hardware". Provide at least 4GB of memory and 2 processors. Refer to recommended specifications above for better performance.
+Head over to "Customize Hardware". Provide at least 4GB of memory and 2 processors. Refer to recommended specifications above for better performance.
 
 ![4ram](https://cdn.discordapp.com/attachments/1001143746664091698/1004042925329612910/unknown.png)
 ![2proc](https://media.discordapp.net/attachments/1001143746664091698/1004043084675436664/unknown.png)
