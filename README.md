@@ -12,6 +12,7 @@ Contents:
    * [VMWare Workstation Player](#step3a)
    * [Oracle VirtualBox](#step3b)
 4. [Virtual Machine Boot-up](#step4)
+5. [Installation Verification](#step5)
 
 ## <a name="step1"></a> Step 1 - Downloads
 
@@ -117,4 +118,13 @@ sudo apt-get update -y
 sudo apt-get upgrade -y
 ```
 
-And you're good to go! Welcome to Big Data.
+## <a name="step5"></a> Step 5 - Installation Verification
+
+To verify that the installation went well, head over to the terminal and type the following command:
+
+```sh
+# Clone the repository first
+git clone https://github.com/Cloud-Computing-Big-Data/UE20CS322-A0.git
+cd UE20CS322-A0
+python3 verify-installation.pyc
+```
